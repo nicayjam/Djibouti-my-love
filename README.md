@@ -5,7 +5,7 @@ Quiz interactif sur l'histoire, la géographie et la culture de Djibouti.
 
 ---
 
-## 🎮 Jouer
+## 🎮 Jouer  
 
 👉 **https://nicayjam.github.io/Djibouti-my-love/**
 
