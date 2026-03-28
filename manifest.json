@@ -1,0 +1,16 @@
+{
+  "name": "Djibouti My Love Quiz",
+  "short_name": "DML Quiz",
+  "description": "Quiz éducatif sur l'histoire, la géographie et la culture de Djibouti",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0d1f3c",
+  "theme_color": "#0d1f3c",
+  "orientation": "portrait-primary",
+  "lang": "fr",
+  "icons": [
+    { "src": "icon-512x512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512x512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
